@@ -4,7 +4,7 @@ Este es un pequeño taller realizado para los nuevos alumnos de ingeniería info
 
 El objetivo del propio taller es darles una pincelada de lo que podrán hacer con los estudios que van a cursar y, por supuesto, motivarlos con la carrera.
 
-Las diapositivas del taller se encuentran aquí
+Las diapositivas del taller se encuentran [aquí](https://docs.google.com/presentation/d/1k2SgG8PVc1xKtqsNj5Zx--CJ15h7R6cH0Yk5OHdFBno/edit?usp=sharing)
 
 ## Estructura
 
